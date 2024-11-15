@@ -1,0 +1,5 @@
+lista = ['maca','abacaxi','pera','morango','uva','pinha']
+
+tupla = tuple(lista)
+
+print(tupla)
